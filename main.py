@@ -1,18 +1,23 @@
-import random
+# 🚀 Motivation Generator
 
-quotes = [
-    "Discipline beats motivation.",
-    "Stay consistent, results will follow.",
-    "Winners focus on winning.",
-    "Small steps daily = big results.",
-    "You either win or you learn.",
-    "Focus on progress, not perfection.",
-    "Your habits define your future."
-]
+A simple Python-based CLI tool that generates random motivational quotes to boost productivity and mindset.
 
-print("\n🔥 Motivation Generator 🔥")
+## 🔥 Features
+- Random motivational quote generator
+- Interactive user input
+- Lightweight and fast execution
 
-name = input("\nEnter your name: ")
+## 🛠 Tech Stack
+- Python
 
-print(f"\nHey {name}, here's your motivation:\n")
-print(random.choice(quotes))
+## ▶️ Usage
+Run the script:
+python main.py
+
+## 💡 Future Improvements
+- Add AI-generated quotes
+- Build a GUI version
+- Convert into a web application
+
+## 👨‍💻 Author
+Gurinder
